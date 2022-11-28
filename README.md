@@ -1,4 +1,4 @@
-# Challenge-Assignment-3
+# Password Generator Assignment
 
 The assignment in this challenge was to create a program to randomly generate a password according to user inputted variables.
 
